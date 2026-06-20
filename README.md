@@ -56,4 +56,10 @@ This project was completed as part of an RNN assignment for an AI and ML course 
 
 ## Contact
 
-For inquiries, reach out to the project creator at [pritam.saha@sap.com](mailto:pritam.saha@sap.com).
+For inquiries, reach out to the project team:
+
+- [pritam.saha@sap.com](mailto:pritam.saha@sap.com)
+- [sethumadhavan.premkumar@sap.com](mailto:sethumadhavan.premkumar@sap.com)
+- [vinoth.ganapathy@sap.com](mailto:vinoth.ganapathy@sap.com)
+- [m.bilal@sap.com](mailto:m.bilal@sap.com)
+- [umesh.tiwari@sap.com](mailto:umesh.tiwari@sap.com)
